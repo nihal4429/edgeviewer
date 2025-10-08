@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id fpsText
+id glView
+id textureView
+id toggleBtn
+id urlText
+layout activity_main
+raw simple_frag
+raw simple_vert
+string app_name

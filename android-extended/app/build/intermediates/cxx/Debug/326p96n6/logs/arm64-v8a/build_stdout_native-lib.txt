@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\nihal\Downloads\android-extended\app\.cxx\Debug\326p96n6\arm64-v8a'
+ninja: no work to do.

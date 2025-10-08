@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.edgeviewer.app-debug-33:/raw_simple_vert.glsl.flat",
+        "source": "com.example.edgeviewer.app-main-35:/raw/simple_vert.glsl"
+    },
+    {
+        "merged": "com.example.edgeviewer.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.edgeviewer.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.edgeviewer.app-debug-33:/raw_simple_frag.glsl.flat",
+        "source": "com.example.edgeviewer.app-main-35:/raw/simple_frag.glsl"
+    }
+]
